@@ -1,0 +1,2 @@
+obj-$(CONFIG_ARCH_QCOM) += qcom/ codecs/
+obj-$(CONFIG_ARCH_QCOM) += codecs/tfa98xx-v6/
